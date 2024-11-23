@@ -29,16 +29,20 @@ This tutorial outlines the steps taken towards installation of the open-source h
 
 ![Screenshot 2024-11-16 143135](https://github.com/user-attachments/assets/bd0a794f-4905-4023-9a62-b6c90ca39d0e)
 
-</p>
+
 <p>
 *Deployed osTickert-VM
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![Screenshot 2024-11-16 143908](https://github.com/user-attachments/assets/dfbce630-e17b-48d1-9615-591af1badf0c)
+
+
+
+*Logged into the VM with Remote Desktop-
+Within the VM (osticket-vm), downloaded the osTicket-Installation-Files.zip and unzipped it onto my desktop. The folder should be called “osTicket-Installation-Files”
+I then used the files in this folder to install osTicket.
+
 </p>
 <br />
